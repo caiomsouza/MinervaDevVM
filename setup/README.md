@@ -1,4 +1,3 @@
-
 # Machine Learning VM 
 
 VM Name: CM_ML_Pentaho71 <BR>
@@ -8,6 +7,38 @@ Date: Oct, 20, 2017 <BR><BR>
 user: minerva <BR>
 password: minerva<BR><BR>
 
+# Pentaho Design Tools 
+/home/minerva/Pentaho/design-tools/
+
+# PDI
+/home/minerva/Pentaho/design-tools/data-integration
+
+# Pentaho Server
+
+Pentaho folder: /home/minerva/Pentaho 
+
+# Status / Start / Stop Pentaho and PostgreSQL 
+```
+cd /home/minerva/Pentaho
+./ctlscript.sh start
+./ctlscript.sh status
+./ctlscript.sh stop
+```
+
+# R Studio (Type the command below in the terminal)
+```
+rstudio
+```
+
+# Python (Type the command below in the terminal)
+```
+python
+```
+
+# Spyder (Type the command below in the terminal)
+```
+spyder
+```
 
 
 # Install SSH
