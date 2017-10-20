@@ -3,9 +3,11 @@
 
 
 # Install SSH
+```
 apt-get install ssh
+```
 
-#Download Anaconda for Linux
+# Download Anaconda for Linux
 https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh
 
 # Install Anaconda Python
