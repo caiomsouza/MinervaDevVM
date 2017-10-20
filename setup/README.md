@@ -94,3 +94,11 @@ export R_HOME=/usr/lib/R
 export R_LIBS_USER=/home/minerva/R/x86_64-pc-linux-gnu-library/3.4
 ```
 
+# Test R PDI Transformation 
+```
+cd /home/minerva/Pentaho/design-tools/data-integration
+./pan.sh -file=/home/minerva/Desktop/Test/t_r_script_hello_world.ktr -level=Basic
+```
+
+
+
