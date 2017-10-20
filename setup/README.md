@@ -1,4 +1,12 @@
 
+# Machine Learning VM 
+
+VM Name: CM_ML_Pentaho71 <BR>
+Creator: Caio Moreno <BR>
+Date: Oct, 20, 2017 <BR><BR>
+
+user: minerva <BR>
+password: minerva<BR><BR>
 
 
 
@@ -23,7 +31,7 @@ spyder
 ```
 
 # Download Pentaho BA Suite 7.1 EE
-www.pentaho.com/download 
+www.pentaho.com/download <BR>
 
 # Install Pentaho BA Suite 7.1 EE
 ```
@@ -31,14 +39,14 @@ chmod +x pentaho-business-analytics-7.1.0.0-12-x64.bin
 ./pentaho-business-analytics-7.1.0.0-12-x64.bin
 ```
 
-PostgreSQL
-user: postgres
-password: postgres
+PostgreSQL<BR>
+user: postgres<BR>
+password: postgres<BR><BR>
 
-Pentaho
-http://localhost:8080
-user: admin
-password: password
+Pentaho<BR>
+http://localhost:8080<BR>
+user: admin<BR>
+password: password<BR>
 
 
 # Install R 
@@ -57,7 +65,7 @@ sudo apt-get -f install
 sudo dpkg -i rstudio-1.1.383-amd64.deb
 ```
 
-https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2
+https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2 <BR>
 
 # Install JDK and JRE Default
 ```
@@ -66,7 +74,7 @@ sudo apt-get install default-jre
 sudo apt-get install default-jdk
 ```
 
-https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04<BR>
 
 # Install rJava
 
@@ -76,7 +84,7 @@ cp /home/minerva/R/x86_64-pc-linux-gnu-library/3.4/rJava/jri/libjri.so /home/min
 ```
 
 # Install CPython on PDI from Marketplace
-Install this plugin using the User Interface of PDI
+Install this plugin using the User Interface of PDI <BR>
 
 # Install libwebkitgtk-1.0 for PDI
 ```
